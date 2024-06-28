@@ -64,6 +64,7 @@ Rahmen des oben angesprochenen Rahmens für den Talk sprengen.
 
 ## Warum werden Erwartungen nicht eingehalten?
 
+- Bias (Vorurteil)
 - Nicht korrekt verstanden
 - Problemstellung nicht in aller Tiefe durchdrungen
 - Angst
@@ -82,11 +83,15 @@ Rahmen des oben angesprochenen Rahmens für den Talk sprengen.
 
 ### Wie du mit einem Satz das Vertrauen deiner Kollegen verlierst Teil I
 
+Kundenmeeting, Titel in der Einladung Strategie "2020".
+
 #### Meine Erwartung
 
 #### Erwartung des Gegenüber
 
 ### Wie du mit einem Satz das Vertrauen deiner Kollegen verlierst Teil II
+
+"Ich habe es euch damals schon entscheiden lassen. Das kann ich nicht nochmal zulassen."
 
 #### Meine Erwartung
 
@@ -94,11 +99,21 @@ Rahmen des oben angesprochenen Rahmens für den Talk sprengen.
 
 ### Wie du deinen neuen Kollegen am besten vor den Kopf stößt
 
+"Über Wochenende das komplette Projekt umgecoded"
+
 #### Meine Erwartung
 
 #### Erwartung des Gegenüber
 
-## Quellen
+## Tipps & Tricks
 
-- [selbstbild-fremdbild]: [https://www.psychologie-coaching.com/wissen-psychologie/selbstbild-fremdbild-feedback/]
-- [selbstwert-verzerrung]: [https://www.psychologie-coaching.com/wissen/selbstwertdienliche-verzerrung/]
+- Moderation
+-
+
+[selbstbild-fremdbild]: [https://www.psychologie-coaching.com/wissen-psychologie/selbstbild-fremdbild-feedback/]
+[selbstwert-verzerrung]: [https://www.psychologie-coaching.com/wissen/selbstwertdienliche-verzerrung/]
+
+# Bilder
+
+- Photo by Kelly : https://www.pexels.com/photo/selective-focus-photography-of-a-man-holding-his-head-and-eyeglasses-sitting-beside-a-table-2869217/
+- Photo by Timur Weber: https://www.pexels.com/photo/a-man-talking-to-his-upset-partner-8560427/
