@@ -23,3 +23,40 @@ Was also tun, wenn wir glauben, über dasselbe zu sprechen, wo wir doch untersch
 In dieser Session sprechen wir über Erlebtes, und schauen uns Reflexionen und Maßnahmen an, die uns helfen verschiedene Erwartungen aufzudecken.
 
 Ziel ist, für sich selbst ein klares Bild über die verschiedenen Erwartungen zu haben, um einen positiven Einfluss auf die Arbeit und die Kommunikation im Team zu nehmen.
+
+## Nicht-Ziel
+
+In diesem Talk sprechen wir nicht über Erwartungen, die wir an uns selbst richten.
+Hier gibt es andere Ursachen und Lösungsansätze die diskutiert werden können, aber den
+Rahmen des oben angesprochenen Rahmens für den Talk sprengen.
+
+## Was ist eine Erwartung?
+
+- Ich gehe mit Bestimmtheit davon aus, dass sich eine Person auf eine bestimmte Weise verhält.
+- Ich gehe mit Bestimmtheit davon aus, dass ein konkretes Ziel erreicht wird.
+- Ich gehe mit Bestimmtheit davon aus, dass ein ein Ziel in einer bestimmten Zeit erreicht wird.
+- Ich gehe mit Bestimmtheit davon aus, dass der
+
+- Erwartung an andere
+
+## Wie entsteht eine Erwartung?
+
+## Was macht eine Erwartung gefährlich?
+
+[selbstbild-fremdbild]
+[selbstwert-verzerrung]
+
+## Warum werden Erwartungen nicht eingehalten?
+
+## Was machen nicht erfüllte Erwartungen mit uns?
+
+- Humor
+- Enttäuschung
+- Verletzung
+- Gleichgültigkeit
+- Vollständiger Vertrauensverlust
+
+# Quellen
+
+- [selbstbild-fremdbild]: [https://www.psychologie-coaching.com/wissen-psychologie/selbstbild-fremdbild-feedback/]
+- [selbstwert-verzerrung]: [https://www.psychologie-coaching.com/wissen/selbstwertdienliche-verzerrung/]
