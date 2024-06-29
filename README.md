@@ -119,7 +119,7 @@ Wir haben die Ideen des anderen kritisiert und hinterfragt, Neudeutch: gechallan
 Beim Captain setzte Verdruss ein. Die Augen wurden kleiner, der Blick wirkte zunehmend strenger.
 Die Schulten schoben sich weiter nach vorn, wie ein Raubtier das kurz vor dem entscheidenden Satz steht seine Beute zu erlegen.
 
-Schlussendlich entlud sich der Frust in 3 Stufen:
+Schlussendlich entlud sich der Frust in 5 Stufen:
 
 1. Persönliche Ebene: "Ich verstehe jetzt nicht wie du das machen willst, aber...?"
 1. Bagatellisieren: "Ja ja, wenn ich das so mache, hab ich es so gemacht."
@@ -149,3 +149,4 @@ Schlussendlich entlud sich der Frust in 3 Stufen:
 
 - Photo by Kelly : https://www.pexels.com/photo/selective-focus-photography-of-a-man-holding-his-head-and-eyeglasses-sitting-beside-a-table-2869217/
 - Photo by Timur Weber: https://www.pexels.com/photo/a-man-talking-to-his-upset-partner-8560427/
+- Photo by <a href="https://unsplash.com/@epicantus?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Daria Nepriakhina 🇺🇦</a> on <a href="https://unsplash.com/photos/brown-and-black-bridge-near-trees-tH7eYi6p23s?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
