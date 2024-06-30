@@ -58,7 +58,7 @@ Navigator entwickeln um die eigenen Erwartungen mit denen der anderen abzugleich
 - Wir vereinbaren etwas gemeinsam
 - Wir treffen einseitig Annahmen
 
-## Was macht eine Erwartung gefährlich?
+## Was macht eine Erwartung risikoreich?
 
 [selbstbild-fremdbild]
 [selbstwert-verzerrung]
@@ -69,6 +69,7 @@ Navigator entwickeln um die eigenen Erwartungen mit denen der anderen abzugleich
 - Nicht korrekt verstanden
 - Problemstellung nicht in aller Tiefe durchdrungen
 - Angst
+- Ablenkung
 - Resignation
 - Trotz
 
@@ -153,3 +154,4 @@ Schlussendlich entlud sich der Frust in 5 Stufen:
 - Photo by <a href="https://unsplash.com/@nublson?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Nubelson Fernandes</a> on <a href="https://unsplash.com/photos/man-in-black-t-shirt-sitting-on-white-chair-tAJYoec13xk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 - Photo by <a href="https://unsplash.com/@nowah?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">NoWah Bartscher</a> on <a href="https://unsplash.com/photos/woman-in-white-and-black-floral-shirt-holding-white-and-pink-hair-brush-MU7AuV9197w?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 - Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">charlesdeluvio</a> on <a href="https://unsplash.com/photos/man-using-macbook-Lks7vei-eAg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+- Photo by <a href="https://unsplash.com/@marissacristina?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Marissa Grootes</a> on <a href="https://unsplash.com/photos/woman-writing-using-pen-N9uOrBICcjY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>

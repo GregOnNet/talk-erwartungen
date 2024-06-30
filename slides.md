@@ -12,7 +12,7 @@ drawings:
 transition: slide-left
 mdc: true
 
-src: ./pages/cover.md
+src: ./pages/cover/slides.md
 ---
 
 ---
@@ -21,6 +21,10 @@ src: ./pages/story/slides.md
 
 ---
 src: ./pages/speaker/slides.md
+---
+
+---
+src: ./pages/agenda/slides.md
 ---
 
 ---
@@ -535,11 +539,6 @@ Double-click on the draggable elements to edit their positions.
 </v-drag>
 
 <img v-drag="'square'" src="https://sli.dev/logo.png">
-
----
-src: ./pages/multiple-entries.md
-hide: false
----
 
 ---
 

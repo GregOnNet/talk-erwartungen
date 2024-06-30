@@ -3,9 +3,8 @@ layout: image-left
 image: /speaker/gregor.jpg
 ---
 
-# Hi 👋🏻
+# Hi, ich bin Gregor 👋🏻
 
-- Gregor Woiwode
 - Software Engineer - **co-IT.eu GmbH**
 - GDE for Web Technologies & Angular
 - Qwik Hero
