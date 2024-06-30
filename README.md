@@ -70,6 +70,7 @@ Navigator entwickeln um die eigenen Erwartungen mit denen der anderen abzugleich
 - Problemstellung nicht in aller Tiefe durchdrungen
 - Angst
 - Ablenkung
+- Ermüdung
 - Resignation
 - Trotz
 
@@ -155,3 +156,7 @@ Schlussendlich entlud sich der Frust in 5 Stufen:
 - Photo by <a href="https://unsplash.com/@nowah?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">NoWah Bartscher</a> on <a href="https://unsplash.com/photos/woman-in-white-and-black-floral-shirt-holding-white-and-pink-hair-brush-MU7AuV9197w?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 - Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">charlesdeluvio</a> on <a href="https://unsplash.com/photos/man-using-macbook-Lks7vei-eAg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 - Photo by <a href="https://unsplash.com/@marissacristina?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Marissa Grootes</a> on <a href="https://unsplash.com/photos/woman-writing-using-pen-N9uOrBICcjY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+- Photo by <a href="https://unsplash.com/@nci?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">National Cancer Institute</a> on <a href="https://unsplash.com/photos/man-in-white-shirt-using-white-sewing-machine-_gAE02nLoWs?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+- Photo by <a href="https://unsplash.com/@profwicks?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Ben Wicks</a> on <a href="https://unsplash.com/photos/a-cup-of-coffee-next-to-a-calculator-Uh6-JgCwbfM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+- Photo by <a href="https://unsplash.com/@name_gravity?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">name\_ gravity</a> on <a href="https://unsplash.com/photos/floating-green-leaf-plant-on-persons-hand-_AdUs32i0jc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+- Photo by <a href="https://unsplash.com/@vitormonthay?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Vitor Monthay</a> on <a href="https://unsplash.com/photos/person-in-grey-pants-holding-blue-plastic-basin-QV7uRD_sDek?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>

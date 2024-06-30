@@ -12,19 +12,31 @@ drawings:
 transition: slide-left
 mdc: true
 
-src: ./pages/cover/slides.md
+src: ./pages/cover.md
 ---
 
 ---
-src: ./pages/story/slides.md
+src: ./pages/story.md
 ---
 
 ---
-src: ./pages/speaker/slides.md
+src: ./pages/speaker.md
 ---
 
 ---
-src: ./pages/agenda/slides.md
+src: ./pages/agenda.md
+---
+
+---
+src: ./pages/analyse.md
+---
+
+---
+src: ./pages/erwartungen.md
+---
+
+---
+src: ./pages/hacks.md
 ---
 
 ---
