@@ -1,14 +1,5 @@
 ---
-background: /images/expectations_cover.jpg
-info: |
-  ## Talk
-  > Du kannst nicht erwrten, dass andere erwarten, was du erwartest.
-class: text-center
-highlighter: shiki
-drawings:
-  persist: false
-transition: slide-left
-mdc: true
+background: /cover/background.jpg
 ---
 
 # Erwartungen
