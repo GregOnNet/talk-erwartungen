@@ -3,8 +3,8 @@
   "type": "module",
   "private": true,
   "scripts": {
+    "start": "slidev --open",
     "build": "slidev build",
-    "dev": "slidev --open",
     "export": "slidev export"
   },
   "dependencies": {
@@ -15,7 +15,7 @@
     "vue": "3.4.31"
   },
   "devDependencies": {
-    "prettier": "^3.3.2",
-    "prettier-plugin-slidev": "^1.0.5"
+    "prettier": "3.3.2",
+    "prettier-plugin-slidev": "1.0.5"
   }
 }
