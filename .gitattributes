@@ -1,0 +1,5 @@
+# Line endings as per the OS.
+* text=auto
+
+# Shell scripts need LF line endings.
+*.sh text eol=lf
