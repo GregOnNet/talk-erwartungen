@@ -17,18 +17,11 @@ src: ./pages/cover.md
 
 ---
 src: ./pages/story/slides.md
-hide: false
 ---
 
 ---
-
-# Stufenweise Eskalation
-
-1. 🫵🏻 Persönliche Ebene
-1. 🤷🏻 Bagatellisieren
-1. 🙇🏻‍♀️ Kompetenz untergraben
-1. 💔 Vertrauensentzug
-1. 🙅🏻‍♂️ Distanzierung
+src: ./pages/speaker/slides.md
+---
 
 ---
 transition: slide-up
