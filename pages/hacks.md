@@ -9,10 +9,29 @@ background: /hacks/cover.jpg
 
 # Hacks
 
-- Meeting
-- Gießkannenprinzip
-- Feedback Loops
-- Selbstoffenbarung
+<Transform :scale="1.25">
+
+- 🫵🏻 Deine Erwartung zählt
+- 🤝 Meeting
+- 💦 Gießkannenprinzip
+- ➿ Feedback Loops
+- 🧘🏻 Selbstoffenbarungsbotschaft
+
+</Transform>
+
+---
+layout: image-left
+image: /hacks/think.jpg
+---
+
+# Deine Erwartung zählt
+
+<v-clicks>
+
+- Definiere konkrete Erwartungen
+- Baue <span v-mark.circle.yellow>antizipatorisch</span> eine gemeinsame Haltung auf.
+
+</v-clicks>
 
 ---
 
@@ -128,14 +147,14 @@ Notifications
 
 Es brauchte einen Proxy um die Nachrichten an Slack zu senden. – Umständlich
 Notifications zu Dokumenten funktionieren gar nicht. – Lässt sich nicht alles automatisieren
-Wir wollten hier nur benachrichtig werden, wenn es was Neues in den Dokumenten gibt, damit man einen Trigger zum nachlesen hat.
+Wir wollten hier nur benachrichtigt werden, wenn es was Neues in den Dokumenten gibt, damit man einen Trigger zum nachlesen hat.
 Undurchsichtiges Lizensierungskonzept
 
 Essenzielle Features erst in größeren Paketen "versprochen"
 wenn die genauso rudimentär umgesetzt werden: gute Nacht
-Youtrack
+YouTrack
 
-Migrationstool von Youtrack zu Space unbrauchbar
+Migrationstool von YouTrack zu Space unbrauchbar
 
 # 👍🏻 Das klappt gut
 
@@ -146,7 +165,6 @@ Die Code-Reviews funktionieren, wie man das von allen anderen Plattformen kennt.
 - Wir wünschen uns eine Plattform mit ausgereiften Ökosystem, dass Build und Deployment unserer Services erleichtert.
   Community, mit der man sich bei Problemen austauschen kann.
   Anforderungsmanagement und Wiki
-  Hier haben Frank und ich noch keine Klarheit.
 - Wir haben im Team die Anforderung nach Durchsuchbarkeit bis weit in die Vergangenheit.
   Nur nutzen wir das momentan nicht,
 - Wir müssen uns hier noch klar werden, was genau wir auswerten wollen, was wir nicht im Code in Form von Tests (Specs) hinterlegen können.
@@ -158,8 +176,26 @@ Die Code-Reviews funktionieren, wie man das von allen anderen Plattformen kennt.
 ```
 
 ---
-layout: image
+layout: image-right
 image: /hacks/watering-can.jpg
 ---
 
 # Gießkannenprinzip
+
+- 🚩 zu Viel
+- 🚩 zu Ungenau
+- 🚩 zu Einseitig
+
+---
+layout: image-left
+image: /hacks/selbstoffenbarung.jpg
+---
+
+# Selbstoffenbarung
+
+Habe den Mut dir ab und an Raum zu verschaffen.
+
+1. Beobachtung schildern
+1. Deine Gefühle zum Ausdruck bringen
+1. Dein Bedürfnis äußern
+1. Deiner Bitte Ausdruck verleihen

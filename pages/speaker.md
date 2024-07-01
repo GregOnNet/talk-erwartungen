@@ -8,4 +8,4 @@ image: /speaker/gregor.jpg
 - Software Engineer - **co-IT.eu GmbH**
 - GDE for Web Technologies & Angular
 - Qwik Hero
-- Twitter: <span class="text-gradient">**@GregOnNet**</span>
+- X: <span class="text-gradient">**@GregOnNet**</span>

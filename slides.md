@@ -40,6 +40,27 @@ src: ./pages/hacks.md
 ---
 
 ---
-transition: slide-up
-level: 2
+layout: image
+image: /outro/hidden.jpg
 ---
+
+<!--
+- Erwartungen erwachsen aus unserem inneren
+ - Sie schlummern unter der Oberfläche
+ - Es sind offene Geheimnisse
+ - Aber nicht sichtbar
+ - Sie können übersehen und falsch verstanden werden
+ - Darum ist es wichtig, dass wir sie zeigen
+ - Darum ist es wichtig, dass wir sie explizit machen
+ - Das ermöglicht uns in Dialoge zu treten, die bestimmt nicht immer einfach sind.
+ - In den Dialogen werden wir bestimmt auch kommunikative Fehler machen.
+ - Wichtig ist, dass wir dann dran bleiben, damit wir als Gemeinschaft davon profitieren können
+-->
+
+---
+layout: intro
+---
+
+# Danke
+
+@GregOnNet
