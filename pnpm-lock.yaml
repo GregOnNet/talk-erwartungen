@@ -19,16 +19,16 @@ importers:
         version: 0.25.0
       slidev-theme-light-icons:
         specifier: ^1.0.2
-        version: 1.0.2(@slidev/client@0.49.12(@nuxt/kit@3.11.2(rollup@4.17.2))(@vue/compiler-sfc@3.4.31)(postcss@8.4.38)(rollup@4.17.2)(vite@5.3.2(@types/node@18.19.39))(vue-template-compiler@2.7.16)(vue-template-es2015-compiler@1.9.1))(shiki@1.10.0)(typescript@5.5.2)(vue-template-compiler@2.7.16)
+        version: 1.0.2(@slidev/client@0.49.12(@nuxt/kit@3.11.2(rollup@4.17.2))(@vue/compiler-sfc@3.4.31)(postcss@8.4.38)(rollup@4.17.2)(vite@2.9.18)(vue-template-compiler@2.7.16)(vue-template-es2015-compiler@1.9.1))(shiki@1.10.0)(typescript@5.5.2)(vue-template-compiler@2.7.16)
       vue:
         specifier: 3.4.31
         version: 3.4.31(typescript@5.5.2)
     devDependencies:
       prettier:
-        specifier: ^3.3.2
+        specifier: 3.3.2
         version: 3.3.2
       prettier-plugin-slidev:
-        specifier: ^1.0.5
+        specifier: 1.0.5
         version: 1.0.5(prettier@3.3.2)
 
 packages:
@@ -5357,6 +5357,56 @@ snapshots:
       - typescript
       - vue-template-compiler
 
+  '@slidev/client@0.49.12(@nuxt/kit@3.11.2(rollup@4.17.2))(@vue/compiler-sfc@3.4.31)(postcss@8.4.38)(rollup@4.17.2)(vite@2.9.18)(vue-template-compiler@2.7.16)(vue-template-es2015-compiler@1.9.1)':
+    dependencies:
+      '@antfu/utils': 0.7.8
+      '@iconify-json/carbon': 1.1.36
+      '@iconify-json/ph': 1.1.13
+      '@iconify-json/svg-spinners': 1.1.2
+      '@shikijs/monaco': 1.10.0
+      '@shikijs/vitepress-twoslash': 1.10.0(@nuxt/kit@3.11.2(rollup@4.17.2))(typescript@5.5.2)
+      '@slidev/parser': 0.49.12(@vue/compiler-sfc@3.4.31)(postcss@8.4.38)(rollup@4.17.2)(typescript@5.5.2)(vite@2.9.18)(vue-template-compiler@2.7.16)(vue-template-es2015-compiler@1.9.1)
+      '@slidev/rough-notation': 0.1.0
+      '@slidev/types': 0.49.12(@vue/compiler-sfc@3.4.31)(postcss@8.4.38)(rollup@4.17.2)(typescript@5.5.2)(vite@2.9.18)(vue-template-compiler@2.7.16)(vue-template-es2015-compiler@1.9.1)
+      '@typescript/ata': 0.9.6(typescript@5.5.2)
+      '@unhead/vue': 1.9.14(vue@3.4.31(typescript@5.5.2))
+      '@unocss/reset': 0.61.0
+      '@vueuse/core': 10.11.0(vue@3.4.31(typescript@5.5.2))
+      '@vueuse/math': 10.11.0(vue@3.4.31(typescript@5.5.2))
+      '@vueuse/motion': 2.2.3(rollup@4.17.2)(vue@3.4.31(typescript@5.5.2))
+      drauu: 0.4.0
+      file-saver: 2.0.5
+      floating-vue: 5.2.2(@nuxt/kit@3.11.2(rollup@4.17.2))(vue@3.4.31(typescript@5.5.2))
+      fuse.js: 7.0.0
+      katex: 0.16.10
+      lz-string: 1.5.0
+      mermaid: 10.9.1
+      monaco-editor: 0.49.0
+      prettier: 3.3.2
+      recordrtc: 5.6.2
+      shiki: 1.10.0
+      shiki-magic-move: 0.4.2(shiki@1.10.0)(vue@3.4.31(typescript@5.5.2))
+      typescript: 5.5.2
+      unocss: 0.61.0(postcss@8.4.38)(rollup@4.17.2)(vite@2.9.18)
+      vue: 3.4.31(typescript@5.5.2)
+      vue-router: 4.4.0(vue@3.4.31(typescript@5.5.2))
+      yaml: 2.4.2
+    transitivePeerDependencies:
+      - '@nuxt/kit'
+      - '@svgr/core'
+      - '@svgx/core'
+      - '@unocss/webpack'
+      - '@vue/compiler-sfc'
+      - '@vue/composition-api'
+      - postcss
+      - react
+      - rollup
+      - supports-color
+      - svelte
+      - vite
+      - vue-template-compiler
+      - vue-template-es2015-compiler
+
   '@slidev/client@0.49.12(@nuxt/kit@3.11.2(rollup@4.17.2))(@vue/compiler-sfc@3.4.31)(postcss@8.4.38)(rollup@4.17.2)(vite@5.3.2(@types/node@18.19.39))(vue-template-compiler@2.7.16)(vue-template-es2015-compiler@1.9.1)':
     dependencies:
       '@antfu/utils': 0.7.8
@@ -5433,6 +5483,24 @@ snapshots:
       '@slidev/types': 0.47.5
       js-yaml: 4.1.0
 
+  '@slidev/parser@0.49.12(@vue/compiler-sfc@3.4.31)(postcss@8.4.38)(rollup@4.17.2)(typescript@5.5.2)(vite@2.9.18)(vue-template-compiler@2.7.16)(vue-template-es2015-compiler@1.9.1)':
+    dependencies:
+      '@antfu/utils': 0.7.8
+      '@slidev/types': 0.49.12(@vue/compiler-sfc@3.4.31)(postcss@8.4.38)(rollup@4.17.2)(typescript@5.5.2)(vite@2.9.18)(vue-template-compiler@2.7.16)(vue-template-es2015-compiler@1.9.1)
+      yaml: 2.4.5
+    transitivePeerDependencies:
+      - '@svgr/core'
+      - '@svgx/core'
+      - '@unocss/webpack'
+      - '@vue/compiler-sfc'
+      - postcss
+      - rollup
+      - supports-color
+      - typescript
+      - vite
+      - vue-template-compiler
+      - vue-template-es2015-compiler
+
   '@slidev/parser@0.49.12(@vue/compiler-sfc@3.4.31)(postcss@8.4.38)(rollup@4.17.2)(typescript@5.5.2)(vite@5.3.2(@types/node@18.19.39))(vue-template-compiler@2.7.16)(vue-template-es2015-compiler@1.9.1)':
     dependencies:
       '@antfu/utils': 0.7.8
@@ -5466,9 +5534,9 @@ snapshots:
       codemirror-theme-vars: 0.1.2
       prism-theme-vars: 0.2.5
 
-  '@slidev/theme-default@0.7.9(@slidev/client@0.49.12(@nuxt/kit@3.11.2(rollup@4.17.2))(@vue/compiler-sfc@3.4.31)(postcss@8.4.38)(rollup@4.17.2)(vite@5.3.2(@types/node@18.19.39))(vue-template-compiler@2.7.16)(vue-template-es2015-compiler@1.9.1))(shiki@1.10.0)':
+  '@slidev/theme-default@0.7.9(@slidev/client@0.49.12(@nuxt/kit@3.11.2(rollup@4.17.2))(@vue/compiler-sfc@3.4.31)(postcss@8.4.38)(rollup@4.17.2)(vite@2.9.18)(vue-template-compiler@2.7.16)(vue-template-es2015-compiler@1.9.1))(shiki@1.10.0)':
     dependencies:
-      '@slidev/client': 0.49.12(@nuxt/kit@3.11.2(rollup@4.17.2))(@vue/compiler-sfc@3.4.31)(postcss@8.4.38)(rollup@4.17.2)(vite@5.3.2(@types/node@18.19.39))(vue-template-compiler@2.7.16)(vue-template-es2015-compiler@1.9.1)
+      '@slidev/client': 0.49.12(@nuxt/kit@3.11.2(rollup@4.17.2))(@vue/compiler-sfc@3.4.31)(postcss@8.4.38)(rollup@4.17.2)(vite@2.9.18)(vue-template-compiler@2.7.16)(vue-template-es2015-compiler@1.9.1)
       '@slidev/types': 0.13.13
       codemirror-theme-vars: 0.1.2
       prism-theme-vars: 0.2.5
@@ -5484,6 +5552,35 @@ snapshots:
   '@slidev/types@0.13.13': {}
 
   '@slidev/types@0.47.5': {}
+
+  '@slidev/types@0.49.12(@vue/compiler-sfc@3.4.31)(postcss@8.4.38)(rollup@4.17.2)(typescript@5.5.2)(vite@2.9.18)(vue-template-compiler@2.7.16)(vue-template-es2015-compiler@1.9.1)':
+    dependencies:
+      '@antfu/utils': 0.7.8
+      '@vitejs/plugin-vue': 5.0.5(vite@2.9.18)(vue@3.4.31(typescript@5.5.2))
+      '@vitejs/plugin-vue-jsx': 4.0.0(vite@2.9.18)(vue@3.4.31(typescript@5.5.2))
+      katex: 0.16.10
+      mermaid: 10.9.1
+      monaco-editor: 0.50.0
+      shiki: 1.10.0
+      unocss: 0.61.0(postcss@8.4.38)(rollup@4.17.2)(vite@2.9.18)
+      unplugin-icons: 0.19.0(@vue/compiler-sfc@3.4.31)(vue-template-compiler@2.7.16)(vue-template-es2015-compiler@1.9.1)
+      unplugin-vue-markdown: 0.26.2(rollup@4.17.2)(vite@2.9.18)
+      vite-plugin-remote-assets: 0.4.1(vite@2.9.18)
+      vite-plugin-vue-server-ref: 0.4.2(vite@2.9.18)(vue@3.4.31(typescript@5.5.2))
+      vue: 3.4.31(typescript@5.5.2)
+      vue-router: 4.4.0(vue@3.4.31(typescript@5.5.2))
+    transitivePeerDependencies:
+      - '@svgr/core'
+      - '@svgx/core'
+      - '@unocss/webpack'
+      - '@vue/compiler-sfc'
+      - postcss
+      - rollup
+      - supports-color
+      - typescript
+      - vite
+      - vue-template-compiler
+      - vue-template-es2015-compiler
 
   '@slidev/types@0.49.12(@vue/compiler-sfc@3.4.31)(postcss@8.4.38)(rollup@4.17.2)(typescript@5.5.2)(vite@5.3.2(@types/node@18.19.39))(vue-template-compiler@2.7.16)(vue-template-es2015-compiler@1.9.1)':
     dependencies:
@@ -5602,6 +5699,16 @@ snapshots:
       hookable: 5.5.3
       unhead: 1.9.14
       vue: 3.4.31(typescript@5.5.2)
+
+  '@unocss/astro@0.61.0(rollup@4.17.2)(vite@2.9.18)':
+    dependencies:
+      '@unocss/core': 0.61.0
+      '@unocss/reset': 0.61.0
+      '@unocss/vite': 0.61.0(rollup@4.17.2)(vite@2.9.18)
+    optionalDependencies:
+      vite: 2.9.18
+    transitivePeerDependencies:
+      - rollup
 
   '@unocss/astro@0.61.0(rollup@4.17.2)(vite@5.3.2(@types/node@18.19.39))':
     dependencies:
@@ -5742,6 +5849,22 @@ snapshots:
     dependencies:
       '@unocss/core': 0.61.0
 
+  '@unocss/vite@0.61.0(rollup@4.17.2)(vite@2.9.18)':
+    dependencies:
+      '@ampproject/remapping': 2.3.0
+      '@rollup/pluginutils': 5.1.0(rollup@4.17.2)
+      '@unocss/config': 0.61.0
+      '@unocss/core': 0.61.0
+      '@unocss/inspector': 0.61.0
+      '@unocss/scope': 0.61.0
+      '@unocss/transformer-directives': 0.61.0
+      chokidar: 3.6.0
+      fast-glob: 3.3.2
+      magic-string: 0.30.10
+      vite: 2.9.18
+    transitivePeerDependencies:
+      - rollup
+
   '@unocss/vite@0.61.0(rollup@4.17.2)(vite@5.3.2(@types/node@18.19.39))':
     dependencies:
       '@ampproject/remapping': 2.3.0
@@ -5758,6 +5881,16 @@ snapshots:
     transitivePeerDependencies:
       - rollup
 
+  '@vitejs/plugin-vue-jsx@4.0.0(vite@2.9.18)(vue@3.4.31(typescript@5.5.2))':
+    dependencies:
+      '@babel/core': 7.24.7
+      '@babel/plugin-transform-typescript': 7.24.7(@babel/core@7.24.7)
+      '@vue/babel-plugin-jsx': 1.2.2(@babel/core@7.24.7)
+      vite: 2.9.18
+      vue: 3.4.31(typescript@5.5.2)
+    transitivePeerDependencies:
+      - supports-color
+
   '@vitejs/plugin-vue-jsx@4.0.0(vite@5.3.2(@types/node@18.19.39))(vue@3.4.31(typescript@5.5.2))':
     dependencies:
       '@babel/core': 7.24.7
@@ -5771,6 +5904,11 @@ snapshots:
   '@vitejs/plugin-vue@1.10.2(vite@2.9.18)':
     dependencies:
       vite: 2.9.18
+
+  '@vitejs/plugin-vue@5.0.5(vite@2.9.18)(vue@3.4.31(typescript@5.5.2))':
+    dependencies:
+      vite: 2.9.18
+      vue: 3.4.31(typescript@5.5.2)
 
   '@vitejs/plugin-vue@5.0.5(vite@5.3.2(@types/node@18.19.39))(vue@3.4.31(typescript@5.5.2))':
     dependencies:
@@ -8958,10 +9096,10 @@ snapshots:
   slash@5.1.0:
     optional: true
 
-  slidev-theme-light-icons@1.0.2(@slidev/client@0.49.12(@nuxt/kit@3.11.2(rollup@4.17.2))(@vue/compiler-sfc@3.4.31)(postcss@8.4.38)(rollup@4.17.2)(vite@5.3.2(@types/node@18.19.39))(vue-template-compiler@2.7.16)(vue-template-es2015-compiler@1.9.1))(shiki@1.10.0)(typescript@5.5.2)(vue-template-compiler@2.7.16):
+  slidev-theme-light-icons@1.0.2(@slidev/client@0.49.12(@nuxt/kit@3.11.2(rollup@4.17.2))(@vue/compiler-sfc@3.4.31)(postcss@8.4.38)(rollup@4.17.2)(vite@2.9.18)(vue-template-compiler@2.7.16)(vue-template-es2015-compiler@1.9.1))(shiki@1.10.0)(typescript@5.5.2)(vue-template-compiler@2.7.16):
     dependencies:
       '@slidev/cli': 0.7.4(typescript@5.5.2)(vue-template-compiler@2.7.16)
-      '@slidev/theme-default': 0.7.9(@slidev/client@0.49.12(@nuxt/kit@3.11.2(rollup@4.17.2))(@vue/compiler-sfc@3.4.31)(postcss@8.4.38)(rollup@4.17.2)(vite@5.3.2(@types/node@18.19.39))(vue-template-compiler@2.7.16)(vue-template-es2015-compiler@1.9.1))(shiki@1.10.0)
+      '@slidev/theme-default': 0.7.9(@slidev/client@0.49.12(@nuxt/kit@3.11.2(rollup@4.17.2))(@vue/compiler-sfc@3.4.31)(postcss@8.4.38)(rollup@4.17.2)(vite@2.9.18)(vue-template-compiler@2.7.16)(vue-template-es2015-compiler@1.9.1))(shiki@1.10.0)
       light-icons: 1.0.12
     transitivePeerDependencies:
       - '@slidev/client'
@@ -9294,6 +9432,35 @@ snapshots:
 
   universalify@2.0.1: {}
 
+  unocss@0.61.0(postcss@8.4.38)(rollup@4.17.2)(vite@2.9.18):
+    dependencies:
+      '@unocss/astro': 0.61.0(rollup@4.17.2)(vite@2.9.18)
+      '@unocss/cli': 0.61.0(rollup@4.17.2)
+      '@unocss/core': 0.61.0
+      '@unocss/extractor-arbitrary-variants': 0.61.0
+      '@unocss/postcss': 0.61.0(postcss@8.4.38)
+      '@unocss/preset-attributify': 0.61.0
+      '@unocss/preset-icons': 0.61.0
+      '@unocss/preset-mini': 0.61.0
+      '@unocss/preset-tagify': 0.61.0
+      '@unocss/preset-typography': 0.61.0
+      '@unocss/preset-uno': 0.61.0
+      '@unocss/preset-web-fonts': 0.61.0
+      '@unocss/preset-wind': 0.61.0
+      '@unocss/reset': 0.61.0
+      '@unocss/transformer-attributify-jsx': 0.61.0
+      '@unocss/transformer-attributify-jsx-babel': 0.61.0
+      '@unocss/transformer-compile-class': 0.61.0
+      '@unocss/transformer-directives': 0.61.0
+      '@unocss/transformer-variant-group': 0.61.0
+      '@unocss/vite': 0.61.0(rollup@4.17.2)(vite@2.9.18)
+    optionalDependencies:
+      vite: 2.9.18
+    transitivePeerDependencies:
+      - postcss
+      - rollup
+      - supports-color
+
   unocss@0.61.0(postcss@8.4.38)(rollup@4.17.2)(vite@5.3.2(@types/node@18.19.39)):
     dependencies:
       '@unocss/astro': 0.61.0(rollup@4.17.2)(vite@5.3.2(@types/node@18.19.39))
@@ -9360,6 +9527,19 @@ snapshots:
     transitivePeerDependencies:
       - rollup
       - supports-color
+
+  unplugin-vue-markdown@0.26.2(rollup@4.17.2)(vite@2.9.18):
+    dependencies:
+      '@mdit-vue/plugin-component': 2.1.2
+      '@mdit-vue/plugin-frontmatter': 2.1.2
+      '@mdit-vue/types': 2.1.0
+      '@rollup/pluginutils': 5.1.0(rollup@4.17.2)
+      '@types/markdown-it': 14.1.1
+      markdown-it: 14.1.0
+      unplugin: 1.10.1
+      vite: 2.9.18
+    transitivePeerDependencies:
+      - rollup
 
   unplugin-vue-markdown@0.26.2(rollup@4.17.2)(vite@5.3.2(@types/node@18.19.39)):
     dependencies:
@@ -9505,6 +9685,18 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
+  vite-plugin-remote-assets@0.4.1(vite@2.9.18):
+    dependencies:
+      '@antfu/utils': 0.7.8
+      axios: 1.6.8(debug@4.3.5)
+      blueimp-md5: 2.19.0
+      debug: 4.3.5
+      fs-extra: 11.2.0
+      magic-string: 0.30.10
+      vite: 2.9.18
+    transitivePeerDependencies:
+      - supports-color
+
   vite-plugin-remote-assets@0.4.1(vite@5.3.2(@types/node@18.19.39)):
     dependencies:
       '@antfu/utils': 0.7.8
@@ -9524,6 +9716,18 @@ snapshots:
       fs-extra: 11.2.0
       picocolors: 1.0.0
       vite: 5.3.2(@types/node@18.19.39)
+
+  vite-plugin-vue-server-ref@0.4.2(vite@2.9.18)(vue@3.4.31(typescript@5.5.2)):
+    dependencies:
+      '@antfu/utils': 0.7.8
+      debug: 4.3.5
+      klona: 2.0.6
+      mlly: 1.7.1
+      ufo: 1.5.3
+      vite: 2.9.18
+      vue: 3.4.31(typescript@5.5.2)
+    transitivePeerDependencies:
+      - supports-color
 
   vite-plugin-vue-server-ref@0.4.2(vite@5.3.2(@types/node@18.19.39))(vue@3.4.31(typescript@5.5.2)):
     dependencies:
