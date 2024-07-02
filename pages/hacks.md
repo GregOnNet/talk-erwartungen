@@ -14,7 +14,7 @@ background: /hacks/cover.jpg
 - 🫵🏻 Deine Erwartung zählt
 - 🤝 Meeting
 - 💦 Gießkannenprinzip
-- ➿ Feedback Loops
+- 🧲 Erwartungsmagnet
 - 🧘🏻 Selbstoffenbarungsbotschaft
 
 </Transform>
