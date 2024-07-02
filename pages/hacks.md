@@ -188,6 +188,47 @@ image: /hacks/watering-can.jpg
 
 ---
 layout: image-left
+image: /hacks/chatting.jpg
+---
+
+# Erwartungsmagnet
+
+Wirke deinem Confirmation-Bias entgegen.
+
+- Bitte um Meinung anderer
+- Biete Hilfe an
+
+<v-clicks>
+
+- <span v-mark.cycle.orange>Plane</span> Small-Talk ein
+- <span class="text-cyan-500">"Haushalte" mit verschiedenen Erwartungen</span>
+
+</v-clicks>
+
+---
+layout: image-right
+image: /hacks/verzerrung.jpg
+---
+
+# Risiken
+
+Was passiert, wenn du dich nicht um Erwartungen anderer kümmerst.
+
+<v-clicks>
+
+- Selbstwertdienliche Verzerrung (Self-Serving-Bias) [1](https://www.psychologie-coaching.com/wissen/selbstwertdienliche-verzerrung/)
+- Selbstbild-Fremdbild-Inkongruenz [2](https://www.psychologie-coaching.com/wissen-psychologie/selbstbild-fremdbild-feedback/)
+
+</v-clicks>
+
+<v-click>
+
+- <span class="text-rose-500">⛓️‍💥 Störungen im sozialen Miteinander</span>
+
+</v-click>
+
+---
+layout: image-left
 image: /hacks/selbstoffenbarung.jpg
 ---
 
