@@ -5,6 +5,10 @@ title: Erwartungen
 info: |
   ## Talk
   > Du kannst nicht erwarten, dass andere erwarten, was du erwartest.
+
+addons:
+  - slidev-addon-qrcode
+
 class: text-center
 highlighter: shiki
 drawings:
@@ -64,3 +68,12 @@ layout: intro
 # Danke
 
 @GregOnNet
+
+<QRCode
+    :width="300"
+    :height="300"
+    type="svg"
+    data="https://gregonnet.github.io/talk-erwartungen/"
+    :dotsOptions="{ type: 'extra-rounded', color: 'white' }"
+/>
+https://gregonnet.github.io/talk-erwartungen/
